@@ -1,0 +1,21 @@
+/* Pon tu código css aqui */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+section{
+	border: solid 2px #d3d3d3;
+	width: 58%;
+	display: table;
+	height: auto;
+
+}
+
+
+article{
+	height: 140px;
+	width: 140px;
+	
+}
